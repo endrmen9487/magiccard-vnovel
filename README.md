@@ -1,0 +1,2 @@
+# magiccard-vnovel
+vnovel demo
